@@ -1,0 +1,10 @@
+.task {
+    border: 1px solid grey;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-actions button {
+    color: #fff;
+}
